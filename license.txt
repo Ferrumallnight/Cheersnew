@@ -1,0 +1,11 @@
+Model Information:
+* title:	Procedural
+* source:	https://sketchfab.com/3d-models/procedural-dc112259c86140d8ba498816989c3f9f
+* author:	alina.cine (https://sketchfab.com/alina.cine)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Procedural" (https://sketchfab.com/3d-models/procedural-dc112259c86140d8ba498816989c3f9f) by alina.cine (https://sketchfab.com/alina.cine) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
